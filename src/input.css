@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.textShadow {
+    box-shadow: -19px -130px 141px 147px #323744;
+    z-index: 1000;
+}
